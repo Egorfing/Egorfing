@@ -15,5 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Egor's GitHub stats](https://github-readme-stats.vercel.app/api?username=Egorfing&hide=contribs,prs)
-[![ Популярные языки ] (https://github-readme-stats.vercel.app/api/top-langs/?Username=Egorfing )] (https: // github.com/Egorfing/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Egorfing&hide=handlebars&theme=dracula)](https://github.com/Egorfing/github-readme-stats)
